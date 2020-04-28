@@ -4,7 +4,7 @@ write a function to find expiry datetime. expiry datetime is 3 working hours fro
 the working hours is defined in "schedule" input parameter.
 You can write the function in java or javascript programming language.
 
-# input parameters:
+# sinput parameters:
 now: datetime, current datetime. e.g: '2019-10-11T08:13:07+0800'
 schedule: an arraylist of map object. which specified the day open or close and also the start and end of working hours
 [
